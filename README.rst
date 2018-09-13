@@ -15,3 +15,9 @@ Databases
 
 `Mathematical equality of two SQL statements <https://dba.stackexchange.com/questions/96865/mathematical-equality-of-two-sql-statements>`_
 
+
+
+Django
+======
+
+Web-GUI for installing apps.
