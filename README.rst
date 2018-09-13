@@ -21,3 +21,8 @@ Django
 ======
 
 Web-GUI for installing apps.
+
+Performance Analysis
+====================
+
+A tool like new relic (low overhead sampling profiler that collects call graphs for running production apps), but open source. 
