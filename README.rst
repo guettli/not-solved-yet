@@ -35,3 +35,20 @@ I take a picture with my android device. I would like to have it stored in my ne
     YYYY/YYYY-MM/YYYY-MM-DD
 
 I want this to be done automatically without manual work.
+
+Automatically detect bottleneck of VM
+=====================================
+
+Imagine an application running in a VM is too slow.
+You want to give the VM more resources.
+But what resources are needed?
+
+More RAM, more CPUs, faster CPU, faster disks,
+faster network, ...
+
+It would be very nice if a tool could detect this
+by watching the app in the VM for some time.
+
+
+
+
