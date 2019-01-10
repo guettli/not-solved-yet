@@ -27,6 +27,11 @@ Performance Analysis
 
 A tool like new relic (low overhead sampling profiler that collects call graphs for running production apps), but open source. 
 
+These look good: https://github.com/benfred/py-spy
+
+And: https://github.com/uber/pyflame
+
+
 Android Photo to Nextcloud
 ==========================
 
