@@ -10,6 +10,8 @@ Depedency Management. The tool pip works somehow, but a real dependency manageme
 
 `Configuring the logging of a third party script <https://stackoverflow.com/questions/29962525/configuring-the-logging-of-a-third-party-script>`_
 
+I was told the tool `poetry <https://github.com/sdispater/poetry>`_ does solve this, but I have not tried it yet.
+
 Databases
 =========
 
