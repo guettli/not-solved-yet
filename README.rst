@@ -57,5 +57,11 @@ It would be very nice if a tool could detect this
 by watching the app in the VM for some time.
 
 
+Creating group in email, easy like in WhatsApp
+==============================================
+
+Creating a new group for email communication should
+be as easy as in WhatsApp.
+
 
 
