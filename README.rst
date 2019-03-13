@@ -63,5 +63,10 @@ Creating group in email, easy like in WhatsApp
 Creating a new group for email communication should
 be as easy as in WhatsApp.
 
+JSON
+====
 
+Store binary data in json.
+
+Schemas for json. AFAIK there is not established solution.
 
