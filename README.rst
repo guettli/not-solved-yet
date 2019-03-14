@@ -70,3 +70,6 @@ Store binary data in json.
 
 Schemas for json. AFAIK there is not established solution.
 
+JSON does not support a date/datetime data type: https://stackoverflow.com/questions/10286204/the-right-json-date-format
+You can use this: "2012-04-23T18:25:43.511Z". But how to distinguish a string which is exactly "2012-04-23T18:25:43.511Z" from a string
+which should be a datetime?
