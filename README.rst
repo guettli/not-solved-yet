@@ -75,3 +75,12 @@ You can use this: "2012-04-23T18:25:43.511Z". But how to distinguish a string wh
 which should be a datetime?
 
 JSON has no timedelta data type.
+
+Syncing Nextcloud without GUI
+=============================
+
+I know the nextcloudcmd, but this is only a command, not a daemon.
+
+There needs to be a daemon which detects (and syncs) changes immediately (using inotify).
+
+Related: https://help.nextcloud.com/t/sync-without-gui-but-live-inotify/49420
