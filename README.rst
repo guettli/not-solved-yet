@@ -63,6 +63,16 @@ Creating group in email, easy like in WhatsApp
 Creating a new group for email communication should
 be as easy as in WhatsApp.
 
+From email address to profile image
+===================================
+
+Unfortunately it is not possible up to now to combine an email address with
+a profile image.
+For example your mail is mr.bean@example.com and you want to make a photo available
+to make everyone smile (https://www.google.de/search?tbm=isch&q=mr+bean) ... AFAIK
+there is no way to publish this, and of course no other way of people who have your
+email address to find this image.
+
 JSON
 ====
 
