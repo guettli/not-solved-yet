@@ -94,3 +94,9 @@ I know the nextcloudcmd, but this is only a command, not a daemon.
 There needs to be a daemon which detects (and syncs) changes immediately (using inotify).
 
 Related: https://help.nextcloud.com/t/sync-without-gui-but-live-inotify/49420
+
+PostgreSQL
+==========
+
+Automaticaly detect which indexes are missing or "not needed". Some kind of clever tool could analyze the work-load for some days and adapt the indexes (or at least provide some suggestions)
+
