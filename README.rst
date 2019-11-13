@@ -100,3 +100,20 @@ PostgreSQL
 
 Automaticaly detect which indexes are missing or "not needed". Some kind of clever tool could analyze the work-load for some days and adapt the indexes (or at least provide some suggestions)
 
+Package Manager for all use cases
+=================================
+
+rpm and dpkg are used at the "root" level.
+
+But most programming languages re-invent package management and dependency resolution for their environment: 
+
+* pip for python
+* npm for JavaScript
+* gem for ruby
+* ...
+
+I think (and hope) sooner or later there will be **one** package manager. Just like git has won the "which version control system is best" battle.
+
+
+
+
