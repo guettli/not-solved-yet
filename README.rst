@@ -5,12 +5,9 @@ Things which are not solved yet
 Python
 ======
 
-Depedency Management. The tool pip works somehow, but a real dependency management is missing.
+Python is great for backend stuff. For example the Django web framework.
 
-
-`Configuring the logging of a third party script <https://stackoverflow.com/questions/29962525/configuring-the-logging-of-a-third-party-script>`_
-
-I was told the tool `poetry <https://github.com/sdispater/poetry>`_ does solve this, but I have not tried it yet.
+But up to now you can't write python code which gets executed in the web browser. There are some solutions, but they are not wide spread yet.
 
 Databases
 =========
