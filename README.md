@@ -5,7 +5,7 @@ This list is about things which could be solved in a particular
 application.
 
 For things which would require an agreement/specification see [Missing
-Internet Specs](https://github.com/guettli/missing-internet-specs>).
+Internet Specs](https://github.com/guettli/missing-internet-specs).
 
 Python
 ------
