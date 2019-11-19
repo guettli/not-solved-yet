@@ -59,21 +59,6 @@ More RAM, more CPUs, faster CPU, faster disks, faster network, ...
 It would be very nice if a tool could detect this by watching the app in
 the VM for some time.
 
-JSON
-----
-
-Store binary data in json.
-
-Schemas for json. AFAIK there is not established solution.
-
-JSON has no date/datetime data type:
-<https://stackoverflow.com/questions/10286204/the-right-json-date-format>
-You can use this: "2012-04-23T18:25:43.511Z". But how to distinguish a
-string which is exactly "2012-04-23T18:25:43.511Z" from a string which
-should be a datetime?
-
-JSON has no timedelta data type.
-
 Syncing Nextcloud without GUI
 -----------------------------
 
