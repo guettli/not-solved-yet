@@ -31,12 +31,10 @@ next via web gui. This is great.
 Performance Analysis
 --------------------
 
-A tool like new relic (low overhead sampling profiler that collects call
-graphs for running production apps), but open source.
+A [Statistical Profiler](https://en.wikipedia.org/wiki/Profiling_(computer_programming)#Statistical_profilers) like new relic, but open source.
+There are tools (for example [py-spy](https://github.com/benfred/py-spy) and [speedscope](https://github.com/jlfwong/speedscope)) but up to now there is no framework which works for several langnuages.
 
-These look good: [py-spy](https://github.com/benfred/py-spy) and [speedscope](https://github.com/jlfwong/speedscope) 
-to analyze the results.
-
+Maybe [Jaeger](https://github.com/jaegertracing/jaeger) could get used. But up to now Jaeger does only create traces for the service calls, not the method calls of an application.
 
 Android Photo to Nextcloud
 --------------------------
