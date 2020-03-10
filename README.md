@@ -1,5 +1,5 @@
-Things which are not solved yet
-===============================
+Things which are not solved (Software Tools)
+============================================
 
 This list is about things which could be solved in a particular
 application.
