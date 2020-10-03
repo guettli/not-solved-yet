@@ -28,6 +28,13 @@ Web-GUI for installing apps. No editing of python files to install an
 app. Nextcloud is great here. You can upgrade from one version to the
 next via web gui. This is great.
 
+
+Extending Django models via the admin interface.
+This would be cool. AFAIK you can do this in ERPNext.
+But this uses the Frappé framework, not Django.
+Adding new columns via admin interface would make
+Django a low code framework.
+
 Performance Analysis
 --------------------
 
