@@ -83,10 +83,11 @@ rpm and dpkg are used at the "root" level.
 But most programming languages re-invent package management and
 dependency resolution for their environment:
 
--   pip for python
--   npm for JavaScript
--   gem for ruby
--   ...
+- pip for python
+- npm for JavaScript
+- gem for ruby
+- helm charts for Kubernetes
+- ...
 
 I think (and hope) sooner or later there will be **one** package
 manager. Just like git has won the "which version control system is
