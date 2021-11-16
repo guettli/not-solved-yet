@@ -15,6 +15,24 @@ Python is great for backend stuff. For example the Django web framework.
 But up to now you can't write python code which gets executed in the web
 browser. There are some solutions, but they are not wide spread yet.
 
+Compiling Libraries for Python
+------------------------------
+
+If you install a package which needs compiling, then it is likely that you get an error like this
+
+```
+    In file included from psycopg/adapter_asis.c:28:
+    ./psycopg/psycopg.h:36:10: fatal error: libpq-fe.h: No such file or directory
+       36 | #include <libpq-fe.h>
+```
+
+With the help of your favorite search engine you usualy find the needed command to fix this.
+
+For example `sudo apt install libpq-dev`.
+
+It would be great if this manual step could be automated, so that the missing library gets installed automatically.
+
+
 Databases
 ---------
 
@@ -99,3 +117,4 @@ dependency resolution for their environment:
 I think (and hope) sooner or later there will be **one** package
 manager. Just like git has won the "which version control system is
 best" battle.
+
