@@ -118,3 +118,4 @@ I think (and hope) sooner or later there will be **one** package
 manager. Just like git has won the "which version control system is
 best" battle.
 
+Related: https://github.com/guettli/django-and-third-party-js
