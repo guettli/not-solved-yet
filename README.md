@@ -50,3 +50,17 @@ I think (and hope) sooner or later there will be **one** package
 manager. Just like git has won the "which version control system is
 best" battle.
 
+## Alternative to GSuite
+
+GSuite is great. I have not seen a better way for:
+
+* reading/writing mails
+* Multiuser (at the same time) editing a document
+* Google Slides. Very easy to use
+* 15 GByte free storage
+  
+Related: [guettli/Microsoft-365-vs-Google-Workspace: Microsoft 365 vs Google Workspace](https://github.com/guettli/Microsoft-365-vs-Google-Workspace)
+
+This is a bit sad, because I love open source software. But I have not seem a propriatery (or open source) alternative which is that easy to use.
+
+BTW: In this context "easy to use" means "usable by my grandma", not "million features for geeks".
